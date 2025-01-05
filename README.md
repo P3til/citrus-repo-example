@@ -20,7 +20,7 @@ Or click the blue + icon and paste in the URL slot:
   ```
 
 
-[^1]: **App Tab:** The app name of which you were trying to create!
+[^1]: **App Tab:** The app name of which is being installed!
 
 [^2]: **Version:** The version the app is on.
 
