@@ -12,7 +12,6 @@ Simple Repository supporting Citrus!
 Open Repository through Citrus!
   ```
   Citrus://P3til/citrus-repo-example/
-  Citrus://Owner/Repository/
   ```
 
 Or click the blue + icon and paste in the URL slot:
