@@ -1,0 +1,26 @@
+{
+    "repository": {
+        "name": "Hello, World!",
+        "repo-name": "citrus-repo-example",
+        "description": "No clue why you would need this.",
+        "repository-authors": ["P3til"],
+        "icon-url": "/repo.ico",
+        "single-app": false,
+        "apps": [
+            {
+                "name": "someapp",
+                "description": "This app doesn't exist, it is fake.",
+                "authors": ["P3til"],
+                "version": "v1",
+                "catagory": "hidden",
+                "icon": "/app.ico",
+                "website-locked": {
+                    "active": false,
+                    "public-key": "",
+                    "url": "/apps/someapp/app.ico"
+                },
+                "installer": "/apps/someapp/main.bat"
+            }
+        ]
+    }
+}
