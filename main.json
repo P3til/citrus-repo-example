@@ -13,7 +13,7 @@
                 "authors": ["P3til"],
                 "version": "v1",
                 "catagory": "hidden",
-                "icon": "/app.ico",
+                "icon": "/apps/someapp/app.ico",
                 "website-locked": {
                     "active": false,
                     "public-key": "",
