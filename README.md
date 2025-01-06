@@ -1,6 +1,3 @@
-# FOR DEVELOPERS
-fork this and create your own after you are done run [readme-make.py](readme-make.py)
-
 ![Repository Icon](/repo.ico)
 
 # Hello, World!
