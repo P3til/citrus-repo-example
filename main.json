@@ -17,7 +17,7 @@
                 "website-locked": {
                     "active": false,
                     "public-key": "",
-                    "url": "/apps/someapp/app.ico"
+                    "url": ""
                 },
                 "installer": "/apps/someapp/main.bat"
             }
